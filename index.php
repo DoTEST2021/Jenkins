@@ -1,2 +1,2 @@
-<h1>Hello from Apache9</h1> 
+<h1>Hello from Apache10</h1> 
 <?php phpinfo(); ?>
