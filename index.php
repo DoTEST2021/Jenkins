@@ -1,2 +1,2 @@
-<h1>Hello from Apache12</h1> 
+<h1>Hello from Apache13</h1> 
 <?php phpinfo(); ?>
